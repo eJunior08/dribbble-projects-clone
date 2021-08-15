@@ -1139,6 +1139,16 @@
   dependencies:
     "@types/hammerjs" "^2.0.36"
 
+"@expo-google-fonts/sora@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/sora/-/sora-0.2.0.tgz#5c276a9fa56926fd2776bc63e65e653397ea5e69"
+  integrity sha512-6IiN6hK6Y9YThSAgAPhQVP6GkFG3629YBuFhM+aCdT4VQUOLWvdhZnVNFNENVq2KQMhazt8zfffGx5UrHDgiGQ==
+
+"@expo-google-fonts/tangerine@^0.2.0":
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/tangerine/-/tangerine-0.2.0.tgz#51c9b28dd096b31c5b42333d8b5c834104837aeb"
+  integrity sha512-1yUEoow2GZ8X1bfesbBxD6WadThJuBpN12HDjA02NALNy5YJM26Pec6lcd7GwDuMyJ+wEO94U0nauEhnryvqiQ==
+
 "@expo/config-plugins@2.0.4":
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/@expo/config-plugins/-/config-plugins-2.0.4.tgz#955fd70a2aeefbe99ec71cecb1d7ea7b626dc79e"
